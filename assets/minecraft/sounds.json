@@ -1,0 +1,240 @@
+{
+      "entity.enderman.teleport": {
+        "replace": true,
+        "sounds": [
+          "djzc444:type/tjb/portal1",
+          "djzc444:type/tjb/portal2",
+          "djzc444:type/tjb/portal3"
+        ],
+        "subtitle":"subtitles.entity.enderman.teleport"
+      },
+      "item.chorus_fruit.teleport": {
+        "replace": true,
+        "sounds": [
+          {
+            "name": "entity.enderman.teleport",
+            "type": "event"
+          }
+        ],
+        "subtitle": "subtitles.item.chorus_fruit.teleport"
+      },
+      "item.goat_horn.sound.0": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/atk_a"
+        ],
+        "subtitle": "djzc.msg.attack_a"
+      },
+      "item.goat_horn.sound.1": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/atk_b"
+        ],
+        "subtitle": "djzc.msg.attack_b"
+      },
+      "item.goat_horn.sound.2": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/atk_c"
+        ],
+        "subtitle": "djzc.msg.attack_c"
+      },
+      "item.goat_horn.sound.3": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/atk_d"
+        ],
+        "subtitle": "djzc.msg.attack_d"
+      },
+      "item.goat_horn.sound.4": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/dfd_a"
+        ],
+        "subtitle": "djzc.msg.defend_a"
+      },
+      "item.goat_horn.sound.5": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/dfd_b"
+        ],
+        "subtitle": "djzc.msg.defend_b"
+      },
+      "item.goat_horn.sound.6": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/dfd_c"
+        ],
+        "subtitle": "djzc.msg.defend_c"
+      },
+      "item.goat_horn.sound.7": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/dfd_d"
+        ],
+        "subtitle": "djzc.msg.defend_d"
+      },
+      "entity.ender_dragon.growl": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/ocp_by_enm1",
+          "djzc444:pionts/ocp_by_enm2",
+          "djzc444:pionts/ocp_by_enm3",
+          "djzc444:pionts/ocp_by_enm4"
+        ],
+        "subtitle": "djzc.msg.system"
+      },
+      "entity.player.levelup": {
+        "replace": true,
+        "sounds": [
+          "djzc444:pionts/ocp_by_own"
+        ],
+        "subtitle": "djzc.msg.system"
+      },
+      "entity.zombie.ambient": {
+        "replace": true,
+        "sounds": [
+          "djzc444:type/bzb/say1",
+          "djzc444:type/bzb/say2",
+          "djzc444:type/bzb/say3"
+        ],
+        "subtitle": "djzc.type_bzb"
+      },
+      "music_disc.relic": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/beginning_ct"
+        ]
+      },
+      "music_disc.wait": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/beginning_t"
+        ]
+      },
+      "music_disc.blocks": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/atk_d"
+        ]
+      },
+      "music.dragon": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/air_combat"
+        ]
+      },
+      "entity.wither.death": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/game/falied"
+        ],
+        "subtitle": "djzc.msg.system"
+      },
+      "entity.cat.purreow": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/ciallo/say1",
+          "djzc444:msg/ciallo/say2"
+        ],
+        "subtitle": "djzc.msg.ciallo"
+      },
+      "entity.piglin.angry": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/chat/oppose1",
+          "djzc444:msg/chat/oppose2"
+        ],
+        "subtitle": "djzc.msg.oppose"
+      },
+      "entity.piglin.jealous": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/chat/allow1",
+          "djzc444:msg/chat/allow2",
+          "djzc444:msg/chat/allow3",
+          "djzc444:msg/chat/allow4",
+          "djzc444:msg/chat/allow5"
+        ],
+        "subtitle": "djzc.msg.allow"
+      },
+      "entity.piglin.ambient": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/chat/rush1",
+          "djzc444:msg/chat/rush2"
+        ],
+        "subtitle": "djzc.msg.rush"
+      },
+      "entity.piglin.admiring_item": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/chat/retreat1"
+        ],
+        "subtitle": "djzc.msg.retreat"
+      },
+      "entity.piglin.celebrate": {
+        "replace": true,
+        "sounds": [
+          {
+            "name": "djzc444:msg/chat/enemy1",
+            "type": "file"
+          },
+          {
+            "name": "djzc444:msg/chat/enemy2",
+            "type": "file"
+          },
+          {
+            "name": "djzc444:msg/chat/enemy3",
+            "type": "file"
+          },
+          {
+            "name": "djzc444:msg/chat/enemy4",
+            "type": "file",
+            "volume": 0.8
+          },
+          {
+            "name": "djzc444:msg/chat/enemy5",
+            "type": "file",
+            "volume": 0.8
+          }
+        ],
+        "subtitle": "djzc.msg.enemy"
+      },
+      "entity.piglin.retreat": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/chat/sos1",
+          "djzc444:msg/chat/sos2"
+        ],
+        "subtitle": "djzc.msg.sos"
+      },
+      "entity.piglin.converted_to_zombified": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/chat/cover1",
+          "djzc444:msg/chat/cover2"
+        ],
+        "subtitle": "djzc.msg.cover"
+      },
+      "entity.piglin_brute.angry": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/game/final_offensive1",
+          "djzc444:msg/game/final_offensive2",
+          "djzc444:msg/game/final_offensive3",
+          "djzc444:msg/game/final_offensive4",
+          "djzc444:msg/game/final_offensive5"
+        ],
+        "subtitle": "djzc.msg.system"
+      },
+      "entity.piglin_brute.death": {
+        "replace": true,
+        "sounds": [
+          "djzc444:msg/game/final_resistance1",
+          "djzc444:msg/game/final_resistance2",
+          "djzc444:msg/game/final_resistance3"
+        ],
+        "subtitle": "djzc.msg.system"
+      }
+}
