@@ -584,7 +584,7 @@ end:2026/4/26
     - 无法加入阵营
 - 修复了部分情况下，选择**立体机动装置**和**板载兵**不会/clear，导致发放装备异常的BUG
 - 修复了因为*翻译键匹配错误*导致的*欢迎屏幕内容显示异常*
-- 修复了因为*在load.mcfunction中，使用/scoreboard players set game gameflow 0 复位游戏流程计算器*导致的*服务器启动时，冬战会静默启动*的BUG
+- 修复了因为*在load.mcfunction中，使用/scoreboard players set game djzc.gameflow 0 复位游戏流程计算器*导致的*服务器启动时，冬战会静默启动*的BUG
 - 修复了因为代码错误，导致*T阵营*三叉戟兵的护腿的盔甲纹饰为CT样式的BUG
 - 修复了因为翻译键引用错误，导致*dialog/wiki/wiki_map*显示错误
 - 修复了"djzc.dialog.ctmsg.title"显示为"T步话机"的BUG
@@ -638,3 +638,27 @@ end:2026/7/21
     例如，在步话机中发送Ciallo时，右下角字幕会同步显示Ciallo～(∠・ω< )⌒★！
   -删除了部分因为技术力不足而重复放置的音效文件，改用sounds.json调控
   -增加了来自《战地4》的语音，做，最优质的战士！
+
+### 1.0.6 计分板优化
+start:2026/7/23
+end:
+
+#### 计分板重置
+为了提升与其他数据包的兼容性，我们为djzc444创建的*所有计分板*添加了**djzc.**作为前缀
+为了提升易读性，并防止AI变得困惑，修改了一些意义不明的计分板命名：
+  1 -> djzc.stat_kill
+  2 -> djzc.stat_death
+  3 -> djzc.option
+  4 -> djzc.hp
+  5 -> djzc.type
+  dz_kill -> djzc.count_kill
+  dz_die -> djzc.count_die
+相关的翻译键也被同步更改
+
+#### 游戏逻辑优化
+在**冬战欢迎界面**后，增加了一个对话框：
+  在玩家同意用户协议后，自动弹出**阵营选择对话框**，帮助首次加入冬季战场的玩家选择阵营
+
+#### BUG修复
+尽管有AI内联补全和VS Code全局查找的帮助，但是计分板重置涉及巨量代码，或许多有缺漏之处，导致各种奇奇怪怪的BUG，具体问题正在测试当中……
+在优化*airport_ct*为"djzc.airport_ct"时，我们修复了因为**写错计分板**导致的CT机场不会补给**烟花火箭**的BUG

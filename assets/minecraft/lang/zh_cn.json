@@ -527,19 +527,22 @@
 	"djzc.scoreboard.time":"剩余时间",
 	"djzc.scoreboard.time2":"常驻时钟",
 	"djzc.scoreboard.time3":"时间计算",
-	"djzc.scoreboard.1":"击杀数",
-	"djzc.scoreboard.2":"阵亡数",
-	"djzc.scoreboard.3":"设置",
-	"djzc.scoreboard.4":"cm",
-	"djzc.scoreboard.5":"兵种计算",
+	"djzc.scoreboard.stat_kill":"击杀数",
+	"djzc.scoreboard.stat_death":"阵亡数",
+	"djzc.scoreboard.option":"设置",
+	"djzc.scoreboard.hp":"cm",
+	"djzc.scoreboard.type":"兵种计算",
 	"djzc.scoreboard.ct":"击杀数",
 	"djzc.scoreboard.t":"击杀数",
-	"djzc.scoreboard.dz_kill":"本局击杀数",
-	"djzc.scoreboard.dz_die":"本局阵亡数",
+	"djzc.scoreboard.djzc.count_kill":"本局击杀数",
+	"djzc.scoreboard.djzc.count_die":"本局阵亡数",
 	"djzc.scoreboard.fight":"战斗场次",
 	"djzc.scoreboard.fight_win":"胜利场次",
 	"djzc.scoreboard.fight_lost":"失败场次",
 	"djzc.scoreboard.prepare":"准备",
+	"djzc.scoreboard.gameflow":"游戏流程计算器",
+	"djzc.scoreboard.airport_ct":"CT机场计时",
+	"djzc.scoreboard.airport_t":"T机场计时",
 
 	"djzc.dialog.elua.title": "冬季战场 欢迎界面",
 	"djzc.dialog.eula_notice.body1": "欢迎来到冬季战场！加油，特种兵！",
@@ -571,7 +574,7 @@
 	"djzc.dialog.op.status_bar.value.1":"：开",
 	"djzc.dialog.op.status_bar.boost":"Boost",
 	"djzc.dialog.op.status_bar.debug":"debug",
-	"djzc.dialog.op.status_bar.gameflow":"游戏进程",
+	"djzc.dialog.op.status_bar.djzc.gameflow":"游戏进程",
 	"djzc.dialog.op.status_bar.harmony":"和谐冬战",
 
 	"djzc.dialog.type_manage.title":"兵种管理系统",
@@ -601,5 +604,7 @@
 	"enchantment.djzc.burstshot": "爆炸开火",
 	"djzc.sanlian4":"一键三连·MKIV",
 	"djzc.sanlian4.desc":"更高 更快 更强 更团结",
-	"djzc.msg.type_choose":"此处为旧版兵种选择系统，新版兵种选择系统可按G键访问"
+	"djzc.msg.type_choose":"此处为旧版兵种选择系统，新版兵种选择系统可按G键访问",
+
+	"djzc.dialog.team_selection.title":"冬季战场 阵营选择"
 }
