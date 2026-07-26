@@ -250,8 +250,8 @@
 	"djzc.type_bzb.desc": "他的历史原型不太光彩，你会变成一只萤火虫。",
 
 	"djzc.dialog.userbook":"冬战成员用书",
-	"djzc.dialog.userbook.kill_dz": "总击杀数",
-	"djzc.dialog.userbook.death_dz": "总阵亡数",
+	"djzc.dialog.userbook.stat_kill": "总击杀数",
+	"djzc.dialog.userbook.stat_die": "总阵亡数",
 	"djzc.dialog.userbook.kill_ct": "CT击杀数",
 	"djzc.dialog.userbook.kill_t": "T击杀数",
 	"djzc.dialog.userbook.fight": "战斗场次",
@@ -292,6 +292,7 @@
 	"djzc.dialog.wiki.before_play.body14": "· D点启动器：占领C点后，D点启动器高亮，必须全部激活才能开放D点。",
 	"djzc.dialog.wiki.before_play.body15": "· 导弹系统：导弹可被掉落物干扰，且拥有近炸引信（接近敌方3米内爆炸）。",
 	"djzc.dialog.wiki.before_play.body16": "· 兵种选择限制：目前游戏已有的两个航空兵种都有一定的限制，详情参见参见“兵种介绍”章节",
+	"djzc.dialog.wiki.before_play.body17": "· ——>计分信息：游戏进行时，此处显示玩家的击杀数；游戏未进行时，显示玩家的准备情况",
 
 	"djzc.dialog.wiki.back_notice": "返回百科全书主页",
 	"djzc.dialog.wiki.map.title":"地图速览",
@@ -606,5 +607,6 @@
 	"djzc.sanlian4.desc":"更高 更快 更强 更团结",
 	"djzc.msg.type_choose":"此处为旧版兵种选择系统，新版兵种选择系统可按G键访问",
 
-	"djzc.dialog.team_selection.title":"冬季战场 阵营选择"
+	"djzc.dialog.team_selection.title":"冬季战场 阵营选择",
+	"djzc.dialog.scoreboard":"点击查看统计信息"
 }

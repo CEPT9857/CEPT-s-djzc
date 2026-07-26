@@ -250,8 +250,8 @@
 	"djzc.type_bzb.desc": "佢嘅歷史原型唔係幾光彩，你會變成一隻螢火蟲。",
 
 	"djzc.dialog.userbook": "冬戰成員用書",
-	"djzc.dialog.userbook.kill_dz": "總擊殺數",
-	"djzc.dialog.userbook.death_dz": "總陣亡數",
+	"djzc.dialog.userbook.stat_kill": "總擊殺數",
+	"djzc.dialog.userbook.stat_die": "總陣亡數",
 	"djzc.dialog.userbook.kill_ct": "CT擊殺數",
 	"djzc.dialog.userbook.kill_t": "T擊殺數",
 	"djzc.dialog.userbook.fight": "戰鬥場次",
