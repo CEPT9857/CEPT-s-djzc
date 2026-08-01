@@ -604,5 +604,9 @@
 	"djzc.dialog.op.status_bar.track_type.0": ": Tag判定",
 	"djzc.dialog.op.status_bar.track_type.1": ": Predicate判定",
 	"djzc.jam_egg": "干擾彈",
-	"djzc.jam_egg.desc": "右鍵使用，在自身周圍釋放反制措施，干擾飛彈"
+	"djzc.jam_egg.desc": "右鍵使用，在自身周圍釋放反制措施，干擾飛彈",
+	"djzc.dialog.wiki.credits.klukai_404_model": "Klukai_404嘅手辦",
+	"djzc.dialog.wiki.credits.ssr_model": "SSR嘅手辦",
+	"djzc.dialog.wiki.credits.tiphereth_inoch_model": "Tiphereth_inoch嘅手辦",
+	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse嘅手辦"
 }

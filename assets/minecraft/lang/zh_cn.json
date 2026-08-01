@@ -604,5 +604,9 @@
 	"djzc.dialog.op.status_bar.track_type.0": ": Tag判定",
 	"djzc.dialog.op.status_bar.track_type.1": ": Predicate判定",
 	"djzc.jam_egg": "干扰弹",
-	"djzc.jam_egg.desc": "右键使用，在自身周围释放对抗措施，干扰导弹"
+	"djzc.jam_egg.desc": "右键使用，在自身周围释放对抗措施，干扰导弹",
+	"djzc.dialog.wiki.credits.klukai_404_model": "Klukai_404的手办",
+	"djzc.dialog.wiki.credits.ssr_model": "SSR的手办",
+	"djzc.dialog.wiki.credits.tiphereth_inoch_model": "Tiphereth_inoch的手办",
+	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse的手办"
 }
