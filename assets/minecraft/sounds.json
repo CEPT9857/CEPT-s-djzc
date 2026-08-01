@@ -236,5 +236,21 @@
           "djzc444:msg/game/final_resistance3"
         ],
         "subtitle": "djzc.msg.system"
+      },
+      "block.anvil.land":{
+        "replace": true,
+        "sounds": [
+          {
+            "name": "djzc444:type/hkb/rwr1",
+            "pitch": 1.0,
+            "volume": 0.5
+          },
+          {
+            "name": "djzc444:type/hkb/rwr2",
+            "pitch": 1.0,
+            "volume": 0.5
+          }
+        ],
+        "subtitle": "djzc.msg.rwr"
       }
 }
