@@ -361,6 +361,7 @@
 	"djzc.msg.c_d": "C点已被T方占领",
 	"djzc.msg.c_d.t": "进攻D点启动器",
 	"djzc.msg.c_d.ct": "防守D点启动器",
+	"djzc.msg.c_d.desc":"D点启动器的位置已被高亮，旋转物品展示框会激活启动器。若启动器被全部激活，D点就可以被T阵营占领",
 	"djzc.msg.join_ct": "您已加入CT",
 	"djzc.msg.join_t": "您已加入T",
 	"djzc.msg.no_run": "系统拒绝了你的要求，因为这是叛逃。",
@@ -450,6 +451,7 @@
 	"djzc.heavy_gun": "狙击枪——改良版",
 	"djzc.heavy_gun.desc": "大狙就该有大狙的样！",
 	"djzc.heavy_pistol": "近战手枪",
+	"djzc.heavy_pistol.desc1":"双枪会给出答案",
 	"djzc.heavy_sword": "近战剑",
 	"djzc.light_pistol": "小手枪",
 	"djzc.nova": "新星",
@@ -579,5 +581,7 @@
 	"djzc.dialog.wiki.credits.klukai_404_model": "Klukai_404的手办",
 	"djzc.dialog.wiki.credits.ssr_model": "SSR的手办",
 	"djzc.dialog.wiki.credits.tiphereth_inoch_model": "Tiphereth_inoch的手办",
-	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse的手办"
+	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse的手办",
+	"djzc.jam_chicken": "干扰弹",
+	"djzc.bossbar.time": "剩余时间"
 }
