@@ -333,6 +333,8 @@
 	"djzc.dialog.wiki.credits.tjqldmt_model": "团结起来到明天的手办",
 	"djzc.dialog.wiki.credits.djzc_xylt": "-冬季战场-雪域龙腾 制作组-",
 	"djzc.dialog.wiki.credits.cept3": "开发组长：CE_PT",
+	"djzc.dialog.wiki.credits.woefuilist1256": "文化顾问：WoefuIList1256",
+	"djzc.dialog.wiki.credits.woefuilist1256_model": "WoefuIList1256的手办",
 	"djzc.dialog.wiki.credits.1_0_6_1st_test": "-v1.0.6 第一次测试光荣榜-",
 	"djzc.dialog.wiki.credits.hgjwd_model": "hgjwd的手办",
 	"djzc.dialog.wiki.credits.joyawn_model": "Joyawn的手办",
@@ -583,5 +585,7 @@
 	"djzc.dialog.wiki.credits.tiphereth_inoch_model": "Tiphereth_inoch的手办",
 	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse的手办",
 	"djzc.jam_chicken": "干扰弹",
-	"djzc.bossbar.time": "剩余时间"
+	"djzc.bossbar.time": "剩余时间",
+	"djzc.datapack.mcmeta.desc":"冬季战场的数据包部分",
+	"djzc.resourcepack.mcmeta.desc":"冬季战场的配套资源包，提供了基础翻译和优秀的声音环境！"
 }

@@ -2,6 +2,9 @@
   "pack": {
   "min_format": [75, 0],
   "max_format": [75, 0],
-  "description": "§6为冬季战场提供战术语音和优秀的声音环境！"
+  "description": {
+    "translate": "djzc.resourcepack.mcmeta.desc",
+    "fallback":"冬季战场的配套资源包，提供了基础翻译和优秀的声音环境！"
+  }
   }
 }

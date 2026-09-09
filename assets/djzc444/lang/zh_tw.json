@@ -333,6 +333,8 @@
 	"djzc.dialog.wiki.credits.tjqldmt_model": "團結起來到明天的手辦",
 	"djzc.dialog.wiki.credits.djzc_xylt": "-冬季戰場-雪域龍騰 製作組-",
 	"djzc.dialog.wiki.credits.cept3": "開發組長：CE_PT",
+	"djzc.dialog.wiki.credits.woefuilist1256": "文化顧問：WoefuIList1256",
+	"djzc.dialog.wiki.credits.woefuilist1256_model": "WoefuIList1256的手辦",
 	"djzc.dialog.wiki.credits.1_0_6_1st_test": "-v1.0.6 第一次測試光榮榜-",
 	"djzc.dialog.wiki.credits.hgjwd_model": "hgjwd的手辦",
 	"djzc.dialog.wiki.credits.joyawn_model": "Joyawn的手辦",
@@ -583,5 +585,7 @@
 	"djzc.dialog.wiki.credits.tiphereth_inoch_model": "Tiphereth_inoch的手辦",
 	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse的手辦",
 	"djzc.jam_chicken": "干擾彈",
-	"djzc.bossbar.time": "剩餘時間"
+	"djzc.bossbar.time": "剩餘時間",
+	"djzc.datapack.mcmeta.desc": "冬季戰場的數據包部分",
+	"djzc.resourcepack.mcmeta.desc": "冬季戰場的配套資源包，提供了基礎翻譯和優秀的聲音環境！"
 }

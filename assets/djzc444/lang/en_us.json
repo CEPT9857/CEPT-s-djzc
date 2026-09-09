@@ -333,6 +333,8 @@
 	"djzc.dialog.wiki.credits.tjqldmt_model": "团结起来到明天's figurine",
 	"djzc.dialog.wiki.credits.djzc_xylt": "-Dong's MC Warfare : Red Loong Pack Team-",
 	"djzc.dialog.wiki.credits.cept3": "Dev Team Lead: CE_PT",
+	"djzc.dialog.wiki.credits.woefuilist1256": "Cultural Advisor: WoefuIList1256",
+	"djzc.dialog.wiki.credits.woefuilist1256_model": "WoefuIList1256's figurine",
 	"djzc.dialog.wiki.credits.1_0_6_1st_test": "-v1.0.6 First Test Roll of Honor-",
 	"djzc.dialog.wiki.credits.hgjwd_model": "hgjwd's figurine",
 	"djzc.dialog.wiki.credits.joyawn_model": "Joyawn's figurine",
@@ -394,8 +396,8 @@
 	"djzc.msg.no_tp5": "The system rejected your request, because that activator has not been activated yet.",
 	"djzc.msg.no_tp6": "The system rejected your request, because that activator has been activated by the enemy.",
 	"djzc.msg.system": "System Message",
-	"djzc.choose_bzb.title": " You have already shattered like jade — unavailable for purchase",
-	"djzc.choose_ltjd.title": " Kill count below 5 — unavailable for purchase",
+	"djzc.choose_bzb.title": " You are shattered.",
+	"djzc.choose_ltjd.title": " Kill count < 5 — unavailable",
 	"djzc.armor_default_boots": "Iron Boots · Super Collector's Edition",
 	"djzc.armor_default_chestplate": "Iron Chestplate · Super Collector's Edition",
 	"djzc.armor_default_helmet": "Iron Helmet · Super Collector's Edition",
@@ -583,5 +585,7 @@
 	"djzc.dialog.wiki.credits.tiphereth_inoch_model": "Tiphereth_inoch's figurine",
 	"djzc.dialog.wiki.credits.hemouse_model": "HeMouse's figurine",
 	"djzc.jam_chicken": "Decoy Flare",
-	"djzc.bossbar.time": "Time Remaining"
+	"djzc.bossbar.time": "Time Remaining",
+	"djzc.datapack.mcmeta.desc": "The datapack part of Dong's MC Warfare",
+	"djzc.resourcepack.mcmeta.desc": "The companion resource pack of Dong's MC Warfare, providing basic translations and an excellent sound environment!"
 }
