@@ -48,7 +48,7 @@
 	"djzc777.dialog.nav.book": "返回%1$s",
 	"djzc777.scoreboard.tutorial": "教程阶段",
 	"djzc777.tutorial.start.denied": "对局进行中，暂时不能进入新手教程。",
-	"djzc777.tutorial.start.actionbar": "沿着光柱前进",
+	"djzc777.tutorial.start.actionbar": "按%1$s前进",
 	"djzc777.tutorial.end.no_team": "请先选择阵营，再结束新手教程。",
 	"djzc777.tutorial.end.complete": "加油，特种兵！"
 }

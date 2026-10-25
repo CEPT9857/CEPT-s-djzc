@@ -21,73 +21,73 @@
       "item.goat_horn.sound.0": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/atk_a"
+          "djzc444:points/atk_a"
         ],
         "subtitle": "djzc.msg.attack_a"
       },
       "item.goat_horn.sound.1": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/atk_b"
+          "djzc444:points/atk_b"
         ],
         "subtitle": "djzc.msg.attack_b"
       },
       "item.goat_horn.sound.2": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/atk_c"
+          "djzc444:points/atk_c"
         ],
         "subtitle": "djzc.msg.attack_c"
       },
       "item.goat_horn.sound.3": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/atk_d"
+          "djzc444:points/atk_d"
         ],
         "subtitle": "djzc.msg.attack_d"
       },
       "item.goat_horn.sound.4": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/dfd_a"
+          "djzc444:points/dfd_a"
         ],
         "subtitle": "djzc.msg.defend_a"
       },
       "item.goat_horn.sound.5": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/dfd_b"
+          "djzc444:points/dfd_b"
         ],
         "subtitle": "djzc.msg.defend_b"
       },
       "item.goat_horn.sound.6": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/dfd_c"
+          "djzc444:points/dfd_c"
         ],
         "subtitle": "djzc.msg.defend_c"
       },
       "item.goat_horn.sound.7": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/dfd_d"
+          "djzc444:points/dfd_d"
         ],
         "subtitle": "djzc.msg.defend_d"
       },
       "entity.ender_dragon.growl": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/ocp_by_enm1",
-          "djzc444:pionts/ocp_by_enm2",
-          "djzc444:pionts/ocp_by_enm3",
-          "djzc444:pionts/ocp_by_enm4"
+          "djzc444:points/ocp_by_enm1",
+          "djzc444:points/ocp_by_enm2",
+          "djzc444:points/ocp_by_enm3",
+          "djzc444:points/ocp_by_enm4"
         ],
         "subtitle": "djzc.msg.system"
       },
       "entity.player.levelup": {
         "replace": true,
         "sounds": [
-          "djzc444:pionts/ocp_by_own"
+          "djzc444:points/ocp_by_own"
         ],
         "subtitle": "djzc.msg.system"
       },
