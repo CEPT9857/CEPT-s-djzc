@@ -252,5 +252,11 @@
           }
         ],
         "subtitle": "djzc.msg.rwr"
+      },
+      "music.menu":{
+        "replace": true,
+        "sounds": [
+          "djzc444:menu/dong_s_mc_warfare"
+        ]
       }
 }
