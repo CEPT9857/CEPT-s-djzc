@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "djzc444:font/dz_djzc.png",
+            "height": 256,
+            "ascent": 256,
+            "chars": [
+            "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "djzc444:font/jc_basic.png",
+            "height": 144,
+            "ascent": 144,
+            "chars": [
+            "\uE001"
+            ]
+        }
+    ]
+}
