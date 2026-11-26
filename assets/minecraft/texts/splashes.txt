@@ -53,7 +53,6 @@ Absolutely no memes!
 Free dental!
 Ask your doctor!
 Cloud computing!
-Legal in Finland!
 Hard to label!
 Technically good!
 Bringing home the bacon!
@@ -211,8 +210,6 @@ Turing complete!
 It's groundbreaking!
 Let our battle's begin!
 The sky is the limit!
-Jeb has amazing hair!
-Ryan also has amazing hair!
 Casual gaming!
 Undefeated!
 Kinda like Lemmings!
@@ -266,7 +263,6 @@ Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
 See you next Friday or so!
-From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
@@ -328,7 +324,6 @@ Make me a table, a funky table!
 Take the elevator to the mezzanine!
 Stop being reasonable, this is the Internet!
 /give @a hugs 64
-This is good for Realms.
 Any computer is a laptop if you're brave enough!
 Do it all, everything!
 Where there is not light, there can spider!
@@ -370,7 +365,6 @@ Ph1lza had a good run!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
-Minecraft Java Edition presents: Disgusting Bugs
 Wash your hands!
 Soap and water!
 Support local businesses!
@@ -460,3 +454,5 @@ Music by Hyper Potions!
 开门！查水表！
 卡了！
 哈基米南北绿豆！
+Music by Deepseek V4.1 Flash!
+Also try 超级栋服!

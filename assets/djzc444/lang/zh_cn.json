@@ -7,8 +7,8 @@
 	"death.attack.mine.message": "%1$s踩到地雷了",
 	"death.attack.mine.item": "%1$s踩到地雷了",
 	"death.attack.mine.player": "%1$s在试图逃离%2$s时踩到地雷了",
-	"djzc.msg.load": "冬季战场v1.0.6加载成功！",
-	"resourcepack.loaded.detect": "您目前使用的冬战资源包是：赛扬的冬季战场v1.0.6",
+	"djzc.msg.load": "冬季战场v1.0.7加载成功！",
+	"resourcepack.loaded.detect": "您目前使用的冬战资源包是：赛扬的冬季战场v1.0.7",
 	"djzc.msg.load_unboost": "检测到您未处于boost模式，点击可启用boost",
 	"djzc.msg.load_boost": "检测到您已处于boost模式，点击可禁用boost",
 	"djzc.msg.load_unboost.desc": "启用后，将关闭怪物生成等游戏规则，这是我们推荐的游戏模式",
@@ -179,6 +179,7 @@
 	"djzc.map.dz_djzc.respawn_point1_t.desc": "在A点附近",
 	"djzc.map.dz_djzc.respawn_point2_t": "T出生点2",
 	"djzc.map.dz_djzc.respawn_point2_t.desc": "在B点附近",
+	"djzc.map.jc_basic.exit": "离开靶场",
 	"djzc.map.jc_basic.respawn_point1_ct": "CT出生点1",
 	"djzc.map.jc_basic.respawn_point1_ct.desc": "总之你们都在起始点",
 	"djzc.map.jc_basic.respawn_point2_ct": "CT出生点2",
@@ -618,5 +619,8 @@
 	"djzc.bossbar.time": "剩余时间",
 	"djzc.datapack.mcmeta.desc": "冬季战场的数据包部分",
 	"djzc.resourcepack.mcmeta.desc": "冬季战场的配套资源包，提供了基础翻译和优秀的声音环境！",
-	"djzc444.menu.dong_s_mc_warfare": "Deepseek V4.1 flash/CE_PT - 冬季战场"
+	"djzc444.menu.dong_s_mc_warfare": "Deepseek V4.1 flash/CE_PT - 冬季战场",
+	"djzc.dialog.wiki.credits.1_0_6_81_test": "-v1.0.6 八一军演光荣榜-",
+	"djzc.dialog.op": "冬战管理用书",
+	"djzc.tutorial": "教程阶段"
 }
