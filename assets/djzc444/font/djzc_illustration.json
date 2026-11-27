@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "djzc444:font/illustration/tutorial_a.png",
+            "height": 256,
+            "ascent": 256,
+            "chars": [
+            "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "djzc444:font/illustration/tutorial_b.png",
+            "height": 256,
+            "ascent": 256,
+            "chars": [
+            "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "djzc444:font/illustration/tutorial_c.png",
+            "height": 256,
+            "ascent": 256,
+            "chars": [
+            "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "djzc444:font/illustration/tutorial_starter.png",
+            "height": 256,
+            "ascent": 256,
+            "chars": [
+            "\uE004"
+            ]
+        }
+    ]
+}

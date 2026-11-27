@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "djzc444:font/dz_djzc.png",
+            "file": "djzc444:font/map/dz_djzc.png",
             "height": 256,
             "ascent": 256,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "djzc444:font/jc_basic.png",
+            "file": "djzc444:font/map/jc_basic.png",
             "height": 144,
             "ascent": 144,
             "chars": [
